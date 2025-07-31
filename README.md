@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Allan Zita
+# 👨🏾‍💻 Allan Filimão Zita
 
 **`Web Designer | Desenvolvedor Web Júnior`**
 
