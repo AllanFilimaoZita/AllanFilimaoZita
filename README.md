@@ -2,9 +2,7 @@
 
 **`Web Designer | Desenvolvedor Web Júnior`**
 
-Sou um desenvolvedor web apaixonado por criar experiências digitais modernas e acessíveis. Atualmente trabalho como Web Designer e Desenvolvedor Web na **Moz Websites** e continuo meus estudos de forma autodidata através de plataformas como o [Curso em Vídeo](https://www.cursoemvideo.com/), focando em tecnologias web como HTML, CSS, JavaScript e Git/GitHub.  
-Participo também da mentoria **Dev Experience**, onde aprimoro minhas habilidades práticas e aprendo com profissionais experientes do mercado.
-
+Sou um desenvolvedor web apaixonado por criar experiências digitais modernas e acessíveis. Atualmente trabalho como Web Designer e Desenvolvedor Web na **Moz Websites** e continuo meus estudos de forma autodidata
 ---
 
 
